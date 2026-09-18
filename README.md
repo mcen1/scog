@@ -1,4 +1,4 @@
-# scog
+# SCOG - Starless Cloud of Gas
 
 A small Flask web application that mimics the Ansible Galaxy v3 API for
 collections, backed by nothing more than a directory of artifacts. It serves
