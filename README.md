@@ -97,3 +97,7 @@ metadata.
 
 Derived from `amanda`, which is GPL-3.0+. See the original project for the full
 license text.
+
+## Author
+
+Mostly Co-pilot with Opus 4.8 but also me
